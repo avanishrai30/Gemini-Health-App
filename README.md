@@ -1,4 +1,4 @@
-#Read It Before use this project
+# Read It Before use this project
 # Gemini-Health-App
 
 Gemini Health App is an AI-powered nutritionist tool that revolutionizes the way we track and manage our food intake. By leveraging cutting-edge technologies such as Google GenerativeAI, Langchain, and PyPDF2, the app provides users with a comprehensive analysis of their dietary habits.
@@ -53,6 +53,8 @@ Gemini Health App is an AI-powered nutritionist tool that revolutionizes the way
 
    ```bash
    streamlit run app.py
-  ![Screenshot (8)](https://github.com/avanishrai30/Gemini-Health-App/assets/82101000/394d5f63-a3ac-418f-a975-28f6b6b7c685)
-![Screenshot (9)](https://github.com/avanishrai30/Gemini-Health-App/assets/82101000/e1ae7ca0-996c-4e94-b8bf-a2bd075578a1)
- ```
+    ```
+  ## UI ![Screenshot (9)](https://github.com/avanishrai30/Gemini-Health-App/assets/82101000/e1ae7ca0-996c-4e94-b8bf-a2bd075578a1)
+ ## Response ![Screenshot (8)](https://github.com/avanishrai30/Gemini-Health-App/assets/82101000/394d5f63-a3ac-418f-a975-28f6b6b7c685)
+
+
